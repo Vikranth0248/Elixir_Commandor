@@ -1,0 +1,15 @@
+--TANK--
+
+125cm depth of tank
+there is 5 - 10 cm less in ultrasonic
+30cm is cutoff for filling the overhead tank
+31.25cm is 25% of 125cm.
+so 93.65cm is the point where the motor turns on.
+
+below readings are from pipes from above pipes:
+10kg per cm^2. part 4 class 5
+
+--SUMP-- 
+
+220cm depth of tank
+60x60x220 --> dimension
